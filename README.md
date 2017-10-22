@@ -10,3 +10,4 @@ I like eating more than working out.
 I like kissing. 
 I like how I am randomly making I like sentences. 
 I like how this is all in markdown.
+I like how I figured out how to commit on eclipse on mac. 
